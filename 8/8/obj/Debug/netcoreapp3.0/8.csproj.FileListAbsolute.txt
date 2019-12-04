@@ -1,0 +1,11 @@
+C:\Users\Danil\Desktop\All test\C#\8\8\bin\Debug\netcoreapp3.0\8.exe
+C:\Users\Danil\Desktop\All test\C#\8\8\bin\Debug\netcoreapp3.0\8.deps.json
+C:\Users\Danil\Desktop\All test\C#\8\8\bin\Debug\netcoreapp3.0\8.runtimeconfig.json
+C:\Users\Danil\Desktop\All test\C#\8\8\bin\Debug\netcoreapp3.0\8.runtimeconfig.dev.json
+C:\Users\Danil\Desktop\All test\C#\8\8\bin\Debug\netcoreapp3.0\8.dll
+C:\Users\Danil\Desktop\All test\C#\8\8\bin\Debug\netcoreapp3.0\8.pdb
+C:\Users\Danil\Desktop\All test\C#\8\8\obj\Debug\netcoreapp3.0\8.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\All test\C#\8\8\obj\Debug\netcoreapp3.0\8.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\All test\C#\8\8\obj\Debug\netcoreapp3.0\8.AssemblyInfo.cs
+C:\Users\Danil\Desktop\All test\C#\8\8\obj\Debug\netcoreapp3.0\8.dll
+C:\Users\Danil\Desktop\All test\C#\8\8\obj\Debug\netcoreapp3.0\8.pdb
