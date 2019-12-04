@@ -1,0 +1,10 @@
+C:\Users\Danil\Desktop\All test\C#\4\4\bin\Debug\netcoreapp3.0\4.exe
+C:\Users\Danil\Desktop\All test\C#\4\4\bin\Debug\netcoreapp3.0\4.deps.json
+C:\Users\Danil\Desktop\All test\C#\4\4\bin\Debug\netcoreapp3.0\4.runtimeconfig.json
+C:\Users\Danil\Desktop\All test\C#\4\4\bin\Debug\netcoreapp3.0\4.runtimeconfig.dev.json
+C:\Users\Danil\Desktop\All test\C#\4\4\bin\Debug\netcoreapp3.0\4.dll
+C:\Users\Danil\Desktop\All test\C#\4\4\bin\Debug\netcoreapp3.0\4.pdb
+C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.AssemblyInfo.cs
+C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.dll
+C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.pdb
