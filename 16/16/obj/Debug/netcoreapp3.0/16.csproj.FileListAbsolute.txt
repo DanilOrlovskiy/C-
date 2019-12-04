@@ -9,3 +9,14 @@ C:\Users\Danil\Desktop\All test\C#\16\16\obj\Debug\netcoreapp3.0\16.AssemblyInfo
 C:\Users\Danil\Desktop\All test\C#\16\16\obj\Debug\netcoreapp3.0\16.AssemblyInfo.cs
 C:\Users\Danil\Desktop\All test\C#\16\16\obj\Debug\netcoreapp3.0\16.dll
 C:\Users\Danil\Desktop\All test\C#\16\16\obj\Debug\netcoreapp3.0\16.pdb
+E:\GitHub\C-sharp\16\16\bin\Debug\netcoreapp3.0\16.exe
+E:\GitHub\C-sharp\16\16\bin\Debug\netcoreapp3.0\16.deps.json
+E:\GitHub\C-sharp\16\16\bin\Debug\netcoreapp3.0\16.runtimeconfig.json
+E:\GitHub\C-sharp\16\16\bin\Debug\netcoreapp3.0\16.runtimeconfig.dev.json
+E:\GitHub\C-sharp\16\16\bin\Debug\netcoreapp3.0\16.dll
+E:\GitHub\C-sharp\16\16\bin\Debug\netcoreapp3.0\16.pdb
+E:\GitHub\C-sharp\16\16\obj\Debug\netcoreapp3.0\16.csprojAssemblyReference.cache
+E:\GitHub\C-sharp\16\16\obj\Debug\netcoreapp3.0\16.AssemblyInfoInputs.cache
+E:\GitHub\C-sharp\16\16\obj\Debug\netcoreapp3.0\16.AssemblyInfo.cs
+E:\GitHub\C-sharp\16\16\obj\Debug\netcoreapp3.0\16.dll
+E:\GitHub\C-sharp\16\16\obj\Debug\netcoreapp3.0\16.pdb

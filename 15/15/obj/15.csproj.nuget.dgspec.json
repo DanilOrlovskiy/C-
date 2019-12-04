@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danil\\Desktop\\All test\\C#\\15\\15\\15.csproj": {}
+    "E:\\GitHub\\C-sharp\\15\\15\\15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danil\\Desktop\\All test\\C#\\15\\15\\15.csproj": {
+    "E:\\GitHub\\C-sharp\\15\\15\\15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danil\\Desktop\\All test\\C#\\15\\15\\15.csproj",
+        "projectUniqueName": "E:\\GitHub\\C-sharp\\15\\15\\15.csproj",
         "projectName": "15",
-        "projectPath": "C:\\Users\\Danil\\Desktop\\All test\\C#\\15\\15\\15.csproj",
+        "projectPath": "E:\\GitHub\\C-sharp\\15\\15\\15.csproj",
         "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danil\\Desktop\\All test\\C#\\15\\15\\obj\\",
+        "outputPath": "E:\\GitHub\\C-sharp\\15\\15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danil\\AppData\\Roaming\\NuGet\\NuGet.Config",

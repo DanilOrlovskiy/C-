@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danil\\Desktop\\All test\\C#\\6\\6\\6.csproj",
+      "projectUniqueName": "E:\\GitHub\\C-sharp\\6\\6\\6.csproj",
       "projectName": "6",
-      "projectPath": "C:\\Users\\Danil\\Desktop\\All test\\C#\\6\\6\\6.csproj",
+      "projectPath": "E:\\GitHub\\C-sharp\\6\\6\\6.csproj",
       "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danil\\Desktop\\All test\\C#\\6\\6\\obj\\",
+      "outputPath": "E:\\GitHub\\C-sharp\\6\\6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danil\\AppData\\Roaming\\NuGet\\NuGet.Config",

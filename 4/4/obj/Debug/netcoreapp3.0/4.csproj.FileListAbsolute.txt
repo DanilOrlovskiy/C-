@@ -8,3 +8,13 @@ C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.AssemblyInfoInp
 C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.AssemblyInfo.cs
 C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.dll
 C:\Users\Danil\Desktop\All test\C#\4\4\obj\Debug\netcoreapp3.0\4.pdb
+E:\GitHub\C-sharp\4\4\bin\Debug\netcoreapp3.0\4.exe
+E:\GitHub\C-sharp\4\4\bin\Debug\netcoreapp3.0\4.deps.json
+E:\GitHub\C-sharp\4\4\bin\Debug\netcoreapp3.0\4.runtimeconfig.json
+E:\GitHub\C-sharp\4\4\bin\Debug\netcoreapp3.0\4.runtimeconfig.dev.json
+E:\GitHub\C-sharp\4\4\bin\Debug\netcoreapp3.0\4.dll
+E:\GitHub\C-sharp\4\4\bin\Debug\netcoreapp3.0\4.pdb
+E:\GitHub\C-sharp\4\4\obj\Debug\netcoreapp3.0\4.AssemblyInfoInputs.cache
+E:\GitHub\C-sharp\4\4\obj\Debug\netcoreapp3.0\4.AssemblyInfo.cs
+E:\GitHub\C-sharp\4\4\obj\Debug\netcoreapp3.0\4.dll
+E:\GitHub\C-sharp\4\4\obj\Debug\netcoreapp3.0\4.pdb
