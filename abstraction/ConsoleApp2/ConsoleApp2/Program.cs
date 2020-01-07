@@ -46,7 +46,6 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             IPlayable playable = new Player();
-            Console.WriteLine("\n");
             playable.Play();
             playable.Pause();
             playable.Stop();
