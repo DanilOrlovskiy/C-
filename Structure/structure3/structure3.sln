@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structure3", "structure3\structure3.csproj", "{033778A0-9AAB-4F2B-AE1C-EAB14474CA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033778A0-9AAB-4F2B-AE1C-EAB14474CA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033778A0-9AAB-4F2B-AE1C-EAB14474CA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033778A0-9AAB-4F2B-AE1C-EAB14474CA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033778A0-9AAB-4F2B-AE1C-EAB14474CA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C386A7F-A75F-44ED-88B5-D69779AD6BB9}
+	EndGlobalSection
+EndGlobal
