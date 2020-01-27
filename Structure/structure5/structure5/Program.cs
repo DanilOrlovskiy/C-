@@ -2,49 +2,53 @@
 
 namespace structure5
 {
+    public enum Colors
+    {
+        Yellow,
+        Blue,
+        Green
+    };
+
     public static class ColorPrint
     {
-        public static void Print(string stroka,int color)
+        public static void Print(string stroka, int color)
         {
-            switch (color)
+            Colors yColor = Colors.Yellow;
+            Colors bColor = Colors.Blue;
+            Colors gColor = Colors.Green;
+            int yColorIndex = (int)yColor;
+            int bColorIndex = (int)bColor;
+            int gColorIndex = (int)gColor;
+
+            if (color == yColorIndex)
             {
-                case (1):
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine(stroka);
-                        Console.ResetColor();
-                        break;
-                    }
-                case (2):
-                    {
-                        Console.ForegroundColor = ConsoleColor.Blue;
-                        Console.WriteLine(stroka);
-                        Console.ResetColor();
-                        break;
-                    }
-                case (3):
-                    {
-                        Console.ForegroundColor = ConsoleColor.White;
-                        Console.WriteLine(stroka);
-                        Console.ResetColor();
-                        break;
-                    }
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine(stroka);
+                Console.Clear();
+            }
+            else if(color == bColorIndex)
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine(stroka);
+                Console.Clear();
+            }
+            else if (color == gColorIndex)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine(stroka);
+                Console.Clear();
             }
         }
-      class Program
-      {
+    }
+   class Program 
+   {
         static void Main(string[] args)
         {
-            string stroka;
-            int color;
-
             Console.WriteLine("Введите Текст");
-            stroka = Console.ReadLine();
-            Console.WriteLine("Введите номер цвета:\n 1 - красный\n 2 - Синий\n 3 - белый");
-            color = int.Parse(Console.ReadLine());
-
-            Print(stroka, color);
+            string stroka = Console.ReadLine();
+            Console.WriteLine("0 — желтый 1 — синий 2 — зеленый ");
+            int color = int.Parse(Console.ReadLine());
+            ColorPrint.Print(stroka, color);
         }
-      }
-    }
+   }
 }
