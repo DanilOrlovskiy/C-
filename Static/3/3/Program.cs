@@ -4,9 +4,11 @@ namespace _2
 {
     static class Sorting
     {
-        public static void GetSorting(this int[] array, int n)
+        public static void GetSorting(this int[] array, int n, bool fromSmallerToLarger)
         {
             int temp;
+            if (fromSmallerToLarger == true)
+            {
                 for (int i = 0; i < n - 1; i++)
                 {
                     for (int j = i + 1; j < n; j++)
@@ -19,9 +21,25 @@ namespace _2
                         }
                     }
                 }
+            }
 
+            else
+            {
+                for (int i = 0; i < n - 1; i++)
+                {
+                    for (int j = i + 1; j < n; j++)
+                    {
+                        if (array[i] < array[j])
+                        {
+                            temp = array[i];
+                            array[i] = array[j];
+                            array[j] = temp;
+                        }
+                    }
+                }
+            }
             Console.WriteLine("\n Массив");
-            for (int i = 0; i < n; i++) 
+            for (int i = 0; i < n; i++)
             {
                 Console.Write(array[i] + " ");
             }
@@ -33,7 +51,7 @@ namespace _2
     {
         static void Main(string[] args)
         {
-            
+
             Console.Write("Введите размер массива: ");
             int n = Int32.Parse(Console.ReadLine());
 
@@ -47,7 +65,11 @@ namespace _2
                 array[i] = int.Parse(Console.ReadLine());
             }
 
-            Sorting.GetSorting(array, n);
+            Console.WriteLine("\nВыберите сортитовку:\n 1 - От меньшего к большему\n 2 - От большего к меньшему");
+            int menu = Int32.Parse(Console.ReadLine());
+            bool a = (menu == 1) ? true : false;
+
+            Sorting.GetSorting(array, n, a);
         }
     }
 }
